@@ -1,2 +1,2 @@
 # cs425-git-demo
-lab
+demonistrating the git demo assignment 
